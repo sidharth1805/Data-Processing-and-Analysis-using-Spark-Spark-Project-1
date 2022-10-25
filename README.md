@@ -1,3 +1,17 @@
+### Data Processing and Analysis using Spark | Spark Project-1
+
+![](https://cdn-images-1.medium.com/max/1284/1*rOe5v0px2ooR-uS1jMksTg.png)
+
+Overview of the Design
+
+In this blog post, we will understand how to perform simple operations on top of a relational database to get valuable Insights using Apache Spark.
+
+----------
+
+#### Problem Statement:
+
+We have three data tables which are of type CSV. We are performing basic joins in those tables and Creating a Demoralized data frame so that we could perform some processing and Analytics on top of our Data.
+
 #### Dataset:
 
 For this project, we are going to use the [Retail Dataset](https://github.com/sidharth1805/Data-Processing-and-Analysis-using-Spark-Spark-Project-1/tree/main/Data). These Datasets consist of three tables customer, orders, and order_items.
